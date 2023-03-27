@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right,rgba(253, 237, 237, 0.719),rgb(245, 201, 201),rgb(199, 147, 147)
+    );
+   }
+   *{
+     margin: 0;
+     padding: 0;
+   }
+   #box{
+     margin-left: 400px;
+     margin-top:150px;
+   }
+   #name{
+    margin-left: 65px;
+    margin-top: 50px;
+    height: 37px;
+    border-radius: 6px;
+   }
+   #heading{
+     font-family: sans-serif;
+     text-shadow: 2px 2px 5px black;
+   }
+   button{
+     margin: 15px;
+   }
+   #result{
+   margin-left: 120px;
+   }
+   
+   
+   
